@@ -24,6 +24,7 @@ num1 % num2
 end
 
 def square_root(num)
-x = math.sqrt(314)
-puts x
+  math.sin(num)
+num = math.sqrt
+puts num
 end
