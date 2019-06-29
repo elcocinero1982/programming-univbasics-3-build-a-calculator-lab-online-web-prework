@@ -24,6 +24,6 @@ num1 % num2
 end
 
 def square_root(num)
-puts num
-
+math.sqrt num
+num
 end
