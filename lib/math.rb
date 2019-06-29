@@ -25,6 +25,6 @@ end
 
 def square_root(num)
 
-
+  (Math.sqrt(x) % 1).zero
 
 end
