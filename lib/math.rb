@@ -24,7 +24,7 @@ num1 % num2
 end
 
 def square_root(num)
-require "math"
-math.sqrt(num)
-return num
+
+math.sqrt(num).class
+
 end
