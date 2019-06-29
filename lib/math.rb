@@ -23,8 +23,8 @@ puts num1, num2
 num1 % num2
 end
 
-def square_root(num)
-  math.sin(num)
-num = math.sqrt
-puts num
+def square_root(num1, num2)
+
+puts num1, num2
+num1 math.sqrt num2
 end
